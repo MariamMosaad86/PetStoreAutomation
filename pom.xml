@@ -85,7 +85,6 @@
 
         <!-- https://mvnrepository.com/artifact/com.github.scribejava/scribejava-apis -->
         <!-- Required for OAuth1 and OAuth2 Authentications -->
-
         <dependency>
             <groupId>com.github.scribejava</groupId>
             <artifactId>scribejava-apis</artifactId>
