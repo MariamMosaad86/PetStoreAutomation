@@ -11,6 +11,7 @@ import io.restassured.response.Response;
 import java.util.ResourceBundle;
 
 public class UserEndPoints2 {
+
     // Method created for getting URL's from properties file
     static ResourceBundle getURL() {
         ResourceBundle routes = ResourceBundle.getBundle("routes");    //Load properties file /// routes here is name of propertie file
